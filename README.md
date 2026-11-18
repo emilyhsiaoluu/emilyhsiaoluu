@@ -1,6 +1,9 @@
 # Emily Hsiao
 
-I'm a **consumer product leader** with over 10 years of experience, including 6+ years at Instagram. I've led 0-to-1 new bets and scaled products, including Instants by Instagram, Stories, Reels and Groups Messaging.
+- **Consumer product leader with 10+ years of experience**, taking new ideas from 0 to 1 and growing established products.
+- **6+ years at Instagram / Meta**, working on Instants by Instagram, Stories, Reels and group messaging.
+
+But I started my career in finance and investment banking.
 
 Outside of work, I build little apps—usually because my kids or friends asked for something.
 
