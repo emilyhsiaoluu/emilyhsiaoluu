@@ -1,8 +1,8 @@
 # Hi, I’m Emily.
 
-I’m a consumer product leader with 10+ years of experience bringing new ideas to life and helping products grow. I spent 6+ years at Instagram / Meta, working on Instants by Instagram, Stories, Reels and group messaging—but I started my career in finance and investment banking.
+I’m a consumer product leader with 10+ years of experience bringing new ideas to life and helping products grow. I spent 6+ years at Instagram / Meta, working on Instants by Instagram, Stories, Reels and group messaging. Before that, I worked at Patreon, a two-sided marketplace for creators, and at photo-sharing startups. I started my career in investment banking and finance.
 
-Outside of work, I build little apps—usually because my kids or friends asked for something.
+Outside of work, I build little apps, usually because my kids or friends asked for something.
 
 **[See my full portfolio →](https://emilyhsiaoluu.github.io)** · [LinkedIn](https://www.linkedin.com/in/emilyhsiao1/)
 
@@ -24,7 +24,7 @@ Outside of work, I build little apps—usually because my kids or friends asked 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://emilyhsiaoluu.github.io/img/portal-avery.jpg" width="400" alt="Avery’s castle world">
+<img src="https://emilyhsiaoluu.github.io/media/world-transition.gif" width="400" alt="Emerson’s world transforms into Avery’s castle world">
 <h3>Emerson’s Sister</h3>
 <p>Avery got jealous of Emerson’s Portal, so I made her a world of her own. A little side door leads from his home to her castle, with kittens, a unicorn and a magical way back.</p>
 </td>
