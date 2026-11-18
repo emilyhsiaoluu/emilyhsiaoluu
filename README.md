@@ -11,12 +11,12 @@ Outside of work, I build little apps, usually because my kids or friends asked f
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://emilyhsiaoluu.github.io/media/world-transition.gif" width="400" alt="Emerson’s world transforms into Avery’s castle world">
+<img src="https://emilyhsiaoluu.github.io/media/world-transition.gif?v=stickers" width="400" alt="Emerson’s world transforms into Avery’s castle world">
 <h3>Emerson’s Sister</h3>
 <p>Emerson’s sister got very jealous of his home screen. Since we only have one Portal, I made her a world of her own. A little side door leads from Emerson’s world to her castle, complete with kittens, unicorns and all her favorite things, plus a magical way back to his world.</p>
 </td>
 <td width="50%" valign="top">
-<img src="https://emilyhsiaoluu.github.io/media/morning-mission.gif" width="400" alt="Full Morning Mission demo: jobs, math and TCGplayer unlock">
+<img src="https://emilyhsiaoluu.github.io/media/morning-mission.gif?v=short" width="400" alt="Short Morning Mission demo: completed jobs, final math question and TCGplayer unlock">
 <h3>Morning Mission</h3>
 <p>Morning Mission turns Emerson’s morning jobs and a few math questions into 5 minutes on TCGplayer.com, his favorite Pokémon trading website.</p>
 </td>
