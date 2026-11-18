@@ -1,4 +1,4 @@
-# Hi, I'm Emily. I like to tinker.
+# Emily Hsiao
 
 I'm a **consumer product leader** with over 10 years of experience, including 6+ years at Instagram. I've led 0-to-1 new bets and scaled products, including Instants by Instagram, Stories, Reels and Groups Messaging.
 
@@ -71,6 +71,6 @@ Outside of work, I build little apps—usually because my kids or friends asked 
 
 ## How I build
 
-I come up with the idea and the design, and AI coding tools write most of the code. Usually Claude Code or Codex, with GitHub, Vercel and Figma. I iterate on the interactions, try them myself, and keep refining until they feel right.
+I come up with the idea and the design, and AI coding tools write all of the code—usually Claude Code, Codex, or whichever AI I feel like using that day (or still have tokens left on), with GitHub, Vercel and Figma. I iterate on the interactions, try them myself, and keep refining until they feel right.
 
 [Portfolio](https://emilyhsiaoluu.github.io) · [LinkedIn](https://www.linkedin.com/in/emilyhsiao1/) · [Say hi](mailto:hsiao.em@gmail.com)
